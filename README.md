@@ -1,4 +1,4 @@
-# rubiks-cube-solver
+# Rubiks-cube-solver
 
 A C++ Rubik's Cube solver implementing several search algorithms and a corner pattern database generator.
 
