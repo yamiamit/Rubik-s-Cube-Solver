@@ -1,0 +1,68 @@
+[
+{
+  "directory": "/home/notheamit/Desktop/Rubiks Cube solver/rubiks-cube-solver/build",
+  "command": "/usr/bin/g++  -I\"/home/notheamit/Desktop/Rubiks Cube solver/rubiks-cube-solver/Model\" -I\"/home/notheamit/Desktop/Rubiks Cube solver/rubiks-cube-solver\" -isystem /usr/include/opencv4 -g -std=gnu++14 -o CMakeFiles/rubiks_cube_solver.dir/Model/RubiksCube.cpp.o -c \"/home/notheamit/Desktop/Rubiks Cube solver/rubiks-cube-solver/Model/RubiksCube.cpp\"",
+  "file": "/home/notheamit/Desktop/Rubiks Cube solver/rubiks-cube-solver/Model/RubiksCube.cpp",
+  "output": "CMakeFiles/rubiks_cube_solver.dir/Model/RubiksCube.cpp.o"
+},
+{
+  "directory": "/home/notheamit/Desktop/Rubiks Cube solver/rubiks-cube-solver/build",
+  "command": "/usr/bin/g++  -I\"/home/notheamit/Desktop/Rubiks Cube solver/rubiks-cube-solver/Model\" -I\"/home/notheamit/Desktop/Rubiks Cube solver/rubiks-cube-solver\" -isystem /usr/include/opencv4 -g -std=gnu++14 -o CMakeFiles/rubiks_cube_solver.dir/main.cpp.o -c \"/home/notheamit/Desktop/Rubiks Cube solver/rubiks-cube-solver/main.cpp\"",
+  "file": "/home/notheamit/Desktop/Rubiks Cube solver/rubiks-cube-solver/main.cpp",
+  "output": "CMakeFiles/rubiks_cube_solver.dir/main.cpp.o"
+},
+{
+  "directory": "/home/notheamit/Desktop/Rubiks Cube solver/rubiks-cube-solver/build",
+  "command": "/usr/bin/g++  -I\"/home/notheamit/Desktop/Rubiks Cube solver/rubiks-cube-solver/Model\" -I\"/home/notheamit/Desktop/Rubiks Cube solver/rubiks-cube-solver\" -isystem /usr/include/opencv4 -g -std=gnu++14 -o CMakeFiles/rubiks_cube_solver.dir/Model/RubiksCube3dArray.cpp.o -c \"/home/notheamit/Desktop/Rubiks Cube solver/rubiks-cube-solver/Model/RubiksCube3dArray.cpp\"",
+  "file": "/home/notheamit/Desktop/Rubiks Cube solver/rubiks-cube-solver/Model/RubiksCube3dArray.cpp",
+  "output": "CMakeFiles/rubiks_cube_solver.dir/Model/RubiksCube3dArray.cpp.o"
+},
+{
+  "directory": "/home/notheamit/Desktop/Rubiks Cube solver/rubiks-cube-solver/build",
+  "command": "/usr/bin/g++  -I\"/home/notheamit/Desktop/Rubiks Cube solver/rubiks-cube-solver/Model\" -I\"/home/notheamit/Desktop/Rubiks Cube solver/rubiks-cube-solver\" -isystem /usr/include/opencv4 -g -std=gnu++14 -o CMakeFiles/rubiks_cube_solver.dir/Model/RubiksCube1dArray.cpp.o -c \"/home/notheamit/Desktop/Rubiks Cube solver/rubiks-cube-solver/Model/RubiksCube1dArray.cpp\"",
+  "file": "/home/notheamit/Desktop/Rubiks Cube solver/rubiks-cube-solver/Model/RubiksCube1dArray.cpp",
+  "output": "CMakeFiles/rubiks_cube_solver.dir/Model/RubiksCube1dArray.cpp.o"
+},
+{
+  "directory": "/home/notheamit/Desktop/Rubiks Cube solver/rubiks-cube-solver/build",
+  "command": "/usr/bin/g++  -I\"/home/notheamit/Desktop/Rubiks Cube solver/rubiks-cube-solver/Model\" -I\"/home/notheamit/Desktop/Rubiks Cube solver/rubiks-cube-solver\" -isystem /usr/include/opencv4 -g -std=gnu++14 -o CMakeFiles/rubiks_cube_solver.dir/Model/RubiksCubeBitboard.cpp.o -c \"/home/notheamit/Desktop/Rubiks Cube solver/rubiks-cube-solver/Model/RubiksCubeBitboard.cpp\"",
+  "file": "/home/notheamit/Desktop/Rubiks Cube solver/rubiks-cube-solver/Model/RubiksCubeBitboard.cpp",
+  "output": "CMakeFiles/rubiks_cube_solver.dir/Model/RubiksCubeBitboard.cpp.o"
+},
+{
+  "directory": "/home/notheamit/Desktop/Rubiks Cube solver/rubiks-cube-solver/build",
+  "command": "/usr/bin/g++  -I\"/home/notheamit/Desktop/Rubiks Cube solver/rubiks-cube-solver/Model\" -I\"/home/notheamit/Desktop/Rubiks Cube solver/rubiks-cube-solver\" -isystem /usr/include/opencv4 -g -std=gnu++14 -o CMakeFiles/rubiks_cube_solver.dir/PatternDatabases/NibbleArray.cpp.o -c \"/home/notheamit/Desktop/Rubiks Cube solver/rubiks-cube-solver/PatternDatabases/NibbleArray.cpp\"",
+  "file": "/home/notheamit/Desktop/Rubiks Cube solver/rubiks-cube-solver/PatternDatabases/NibbleArray.cpp",
+  "output": "CMakeFiles/rubiks_cube_solver.dir/PatternDatabases/NibbleArray.cpp.o"
+},
+{
+  "directory": "/home/notheamit/Desktop/Rubiks Cube solver/rubiks-cube-solver/build",
+  "command": "/usr/bin/g++  -I\"/home/notheamit/Desktop/Rubiks Cube solver/rubiks-cube-solver/Model\" -I\"/home/notheamit/Desktop/Rubiks Cube solver/rubiks-cube-solver\" -isystem /usr/include/opencv4 -g -std=gnu++14 -o CMakeFiles/rubiks_cube_solver.dir/PatternDatabases/PatternDatabase.cpp.o -c \"/home/notheamit/Desktop/Rubiks Cube solver/rubiks-cube-solver/PatternDatabases/PatternDatabase.cpp\"",
+  "file": "/home/notheamit/Desktop/Rubiks Cube solver/rubiks-cube-solver/PatternDatabases/PatternDatabase.cpp",
+  "output": "CMakeFiles/rubiks_cube_solver.dir/PatternDatabases/PatternDatabase.cpp.o"
+},
+{
+  "directory": "/home/notheamit/Desktop/Rubiks Cube solver/rubiks-cube-solver/build",
+  "command": "/usr/bin/g++  -I\"/home/notheamit/Desktop/Rubiks Cube solver/rubiks-cube-solver/Model\" -I\"/home/notheamit/Desktop/Rubiks Cube solver/rubiks-cube-solver\" -isystem /usr/include/opencv4 -g -std=gnu++14 -o CMakeFiles/rubiks_cube_solver.dir/PatternDatabases/CornerPatternDatabase.cpp.o -c \"/home/notheamit/Desktop/Rubiks Cube solver/rubiks-cube-solver/PatternDatabases/CornerPatternDatabase.cpp\"",
+  "file": "/home/notheamit/Desktop/Rubiks Cube solver/rubiks-cube-solver/PatternDatabases/CornerPatternDatabase.cpp",
+  "output": "CMakeFiles/rubiks_cube_solver.dir/PatternDatabases/CornerPatternDatabase.cpp.o"
+},
+{
+  "directory": "/home/notheamit/Desktop/Rubiks Cube solver/rubiks-cube-solver/build",
+  "command": "/usr/bin/g++  -I\"/home/notheamit/Desktop/Rubiks Cube solver/rubiks-cube-solver/Model\" -I\"/home/notheamit/Desktop/Rubiks Cube solver/rubiks-cube-solver\" -isystem /usr/include/opencv4 -g -std=gnu++14 -o CMakeFiles/rubiks_cube_solver.dir/PatternDatabases/CornerDBMaker.cpp.o -c \"/home/notheamit/Desktop/Rubiks Cube solver/rubiks-cube-solver/PatternDatabases/CornerDBMaker.cpp\"",
+  "file": "/home/notheamit/Desktop/Rubiks Cube solver/rubiks-cube-solver/PatternDatabases/CornerDBMaker.cpp",
+  "output": "CMakeFiles/rubiks_cube_solver.dir/PatternDatabases/CornerDBMaker.cpp.o"
+},
+{
+  "directory": "/home/notheamit/Desktop/Rubiks Cube solver/rubiks-cube-solver/build",
+  "command": "/usr/bin/g++  -I\"/home/notheamit/Desktop/Rubiks Cube solver/rubiks-cube-solver/Model\" -I\"/home/notheamit/Desktop/Rubiks Cube solver/rubiks-cube-solver\" -isystem /usr/include/opencv4 -g -std=gnu++14 -o CMakeFiles/rubiks_cube_solver.dir/PatternDatabases/math.cpp.o -c \"/home/notheamit/Desktop/Rubiks Cube solver/rubiks-cube-solver/PatternDatabases/math.cpp\"",
+  "file": "/home/notheamit/Desktop/Rubiks Cube solver/rubiks-cube-solver/PatternDatabases/math.cpp",
+  "output": "CMakeFiles/rubiks_cube_solver.dir/PatternDatabases/math.cpp.o"
+},
+{
+  "directory": "/home/notheamit/Desktop/Rubiks Cube solver/rubiks-cube-solver/build",
+  "command": "/usr/bin/g++  -I\"/home/notheamit/Desktop/Rubiks Cube solver/rubiks-cube-solver/Model\" -I\"/home/notheamit/Desktop/Rubiks Cube solver/rubiks-cube-solver\" -isystem /usr/include/opencv4 -g -std=gnu++14 -o CMakeFiles/rubiks_cube_solver.dir/Scanner/CubeScanner.cpp.o -c \"/home/notheamit/Desktop/Rubiks Cube solver/rubiks-cube-solver/Scanner/CubeScanner.cpp\"",
+  "file": "/home/notheamit/Desktop/Rubiks Cube solver/rubiks-cube-solver/Scanner/CubeScanner.cpp",
+  "output": "CMakeFiles/rubiks_cube_solver.dir/Scanner/CubeScanner.cpp.o"
+}
+]

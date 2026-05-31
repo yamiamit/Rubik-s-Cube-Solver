@@ -1,0 +1,3 @@
+/home/notheamit/Desktop/Rubiks Cube solver/rubiks-cube-solver/build/CMakeFiles/rubiks_cube_solver.dir
+/home/notheamit/Desktop/Rubiks Cube solver/rubiks-cube-solver/build/CMakeFiles/edit_cache.dir
+/home/notheamit/Desktop/Rubiks Cube solver/rubiks-cube-solver/build/CMakeFiles/rebuild_cache.dir
